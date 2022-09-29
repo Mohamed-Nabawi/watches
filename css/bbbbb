@@ -1,0 +1,9 @@
+<section class="bg-vedio">
+  <div class="play">
+    <a href=""> <i class="fa-solid fa-play"></i></a>
+  </div>
+  <div class="nextvedio">
+    <span>NEXT VIDEO</span>
+    <a href=""><i class="fas fa-arrow-right"></i></a>
+  </div>
+</section>
