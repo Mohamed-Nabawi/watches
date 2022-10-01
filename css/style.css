@@ -523,7 +523,7 @@ header img {
 
 @media (max-width: 991px) {
   .popular .item {
-    width: 48%;
+    width: 100%;
   }
   .popular .item .item-img img {
     width: 100%;
