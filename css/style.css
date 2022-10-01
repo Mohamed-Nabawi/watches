@@ -521,7 +521,7 @@ header img {
 
 /*  popular media */
 
-@media (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 991px) {
   .popular .item {
     width: 48%;
   }
@@ -530,6 +530,9 @@ header img {
   }
 }
 @media (max-width: 767px) {
+  .popular .item {
+    width: 100%;
+  }
   .popular .item .item-img img {
     width: 100%;
   }
